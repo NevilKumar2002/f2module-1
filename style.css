@@ -1,0 +1,30 @@
+*{
+    background-color: #360369;
+    color:white;
+
+
+}
+.container{
+    /* border:2px solid red; */
+    position:fixed;
+    top:30%;
+    left:30%;
+
+}
+.weather-heading{
+font-family: Montserrat;
+font-size: 70px;
+font-weight: 700;
+line-height: 122px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+.container button{
+    background-color: white;
+    color:black;
+    width:200px;
+    height:50px;
+  margin-left:100px;
+
+}
